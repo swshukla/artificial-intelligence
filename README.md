@@ -12,6 +12,7 @@ http://neuralnetworksanddeeplearning.com/chap1.html
 
 http://nuit-blanche.blogspot.in/2016/04/sketching-and-neural-networks.html?m=1
 
+http://www.nervanasys.com/demystifying-deep-reinforcement-learning/
 
 backpropagation
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
@@ -36,3 +37,19 @@ http://neuralnetworksanddeeplearning.com/chap1.html
 
 # Andrej karpathy
 http://karpathy.github.io/neuralnets/
+
+http://karpathy.github.io
+
+# humor
+http://www.abdn.ac.uk/jokingcomputer/HowItWorksP1.shtml
+
+# music
+https://jisungk.github.io/deepjazz
+
+#poetry
+http://www.kurzweilcyberart.com/poetry/rkcp_how_it_works.php
+
+
+#headlines
+
+https://github.com/udibr/headlines
