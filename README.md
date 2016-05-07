@@ -21,7 +21,9 @@ Online learning with Kafka codingjunkie.net//kafka-streams-machine-learning/
 Implement neural network in python : 
 http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 
+residual net using keras:
 
+https://github.com/raghakot/keras-resnet/blob/master/README.md
 Good collection of ai links:
 github.com/szwed/documentation/blob/master/README.md
 
