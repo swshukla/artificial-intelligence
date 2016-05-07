@@ -14,6 +14,9 @@ http://nuit-blanche.blogspot.in/2016/04/sketching-and-neural-networks.html?m=1
 
 http://www.nervanasys.com/demystifying-deep-reinforcement-learning/
 
+#TensorFlow tutorials 
+
+https://github.com/nlintz/TensorFlow-Tutorials
 backpropagation
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
@@ -22,6 +25,8 @@ Online learning with Kafka codingjunkie.net//kafka-streams-machine-learning/
 Implement neural network in python : 
 http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 
+# statistical modeling engine smile 
+http://haifengl.github.io/smile/index.html#clustering
 residual net using keras:
 
 https://github.com/raghakot/keras-resnet/blob/master/README.md
@@ -49,7 +54,7 @@ https://jisungk.github.io/deepjazz
 #poetry
 http://www.kurzweilcyberart.com/poetry/rkcp_how_it_works.php
 
-
+https://en.m.wikipedia.org/wiki/Racter
 #headlines
 
 https://github.com/udibr/headlines
