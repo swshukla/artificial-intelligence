@@ -45,6 +45,8 @@ http://karpathy.github.io/neuralnets/
 
 http://karpathy.github.io
 
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/, 
 # humor
 http://www.abdn.ac.uk/jokingcomputer/HowItWorksP1.shtml
 
