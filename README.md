@@ -47,6 +47,9 @@ http://karpathy.github.io
 
 
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/, 
+
+#nlp
+https://github.com/stanfordnlp/GloVe
 # humor
 http://www.abdn.ac.uk/jokingcomputer/HowItWorksP1.shtml
 
