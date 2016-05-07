@@ -13,6 +13,9 @@ http://neuralnetworksanddeeplearning.com/chap1.html
 http://nuit-blanche.blogspot.in/2016/04/sketching-and-neural-networks.html?m=1
 
 
+backpropagation
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
 Online learning with Kafka codingjunkie.net//kafka-streams-machine-learning/
 
 Implement neural network in python : 
@@ -25,3 +28,9 @@ github.com/szwed/documentation/blob/master/README.md
 # courses
 http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
 
+#books
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+
+# Andrej karpathy
+http://karpathy.github.io/neuralnets/
